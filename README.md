@@ -1,10 +1,11 @@
-# Simple Shell by George Akanimoh and Erhivwor Juliet
+# Simple Shell by Muoh Jefferson And Kedishi Kedishi 
+
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 ### Description
 
-George Akanimoh and Ehrivwor Juliet Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+Muoh Jefferson and Kedishi Kedishi Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 ### Installation
 
@@ -44,4 +45,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [George Akanimoh]([https://github.com/umjoji]) and [Erhivwor Juliet](https://github.com/Julesswiss).
+All code written by [Muoh Jefferson]([https://github.com/fadingSpirit]) and [Kedishi Kedishi]([https://github.com/Kedishi]).
